@@ -1,0 +1,7 @@
+featurecloud
+bios
+pydot
+pyyaml
+pandas
+scipy==1.5.4
+bioinfokit==2.0.4

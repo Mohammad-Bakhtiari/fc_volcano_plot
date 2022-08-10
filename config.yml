@@ -1,0 +1,6 @@
+volcano_plot:
+  local_dataset:
+    pred: tabel.csv
+    sep: '\t'
+  result:
+    plot_name: volcano.png
